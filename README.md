@@ -152,18 +152,14 @@ telegraf --test --config /etc/telegraf/telegraf.d/system.conf
 Ну и формируем **графики**, которые нам нужны
 
 ![images2](./images/grafana_16.png)
-![images2](./images/grafana_17.png)
-![images2](./images/grafana_18.png)
-![images2](./images/grafana_19.png)
-![images2](./images/grafana_20.png)
-![images2](./images/grafana_21.png)
-![images2](./images/grafana_22.png)
+![images2](./images/grafana_17-18.png)
+![images2](./images/grafana_19-20.png)
+![images2](./images/grafana_21-22.png)
 ![images2](./images/grafana_23.png)
 
 Что-то **погуглил**. На графике с сетью появилась информация
 
-![images2](./images/grafana_24.png)
-![images2](./images/grafana_25.png)
+![images2](./images/grafana_24-25.png)
 
 
 Что-то **сохранил на диск**. На графике заметен прирост
