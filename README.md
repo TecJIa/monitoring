@@ -1,16 +1,16 @@
-![image](https://github.com/user-attachments/assets/1a9a502a-e9d7-4b7e-bca1-6335a651f34b)![image](https://github.com/user-attachments/assets/22552de5-428d-4777-ad50-6074d9566c42)# homework-monitoring
+# homework-monitoring
 
 Описание домашнего задания
 ---
 1. Настроить дашборд с 4-мя графиками
 
-память;
+-память;
 
-процессор;
+-процессор;
 
-диск;
+-диск;
 
-сеть.
+-сеть.
 
 Использование систем, примеры которых не рассматривались на занятии*
 
@@ -85,6 +85,7 @@ dpkg -i telegraf_1.22.3-1_amd64.deb
 ```bash
 /etc/telegraf/telegraf.conf
 # Это надо, чтобы агент понимал, куда ему складировать собранные метрики
+# Внизу надо указать, к какой базе мы будем подключаться
 ```
 
 ![images2](./images/grafana_6.png)
